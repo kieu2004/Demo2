@@ -1,0 +1,14 @@
+h1 {
+  /* ngang, dọc,độ nhòe,màu */
+  text-shadow: 10px 10px 2px rgba(231, 90, 25, 0.514);
+}
+
+p {
+  width: 400px;
+  height: 100px;
+  background-color: yellow;
+  /* overflow: scroll; */
+  /* overflow: hidden; */
+  /* overflow: visible;   default*/
+  overflow: auto;
+}
